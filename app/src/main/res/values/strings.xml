@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample Android</string>
+    <string name="signin_other_error">Other signin error</string>
+</resources>
